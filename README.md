@@ -21,7 +21,7 @@ Clone this repository to your local machine.
 
 bash
 Copy code
-git clone https://github.com/your-username/log-analysis-script.git
+git clone https://github.com/Shankerhem/Log-Analysis-Script.git
 Navigate to the project directory.
 
 bash
@@ -36,7 +36,7 @@ Run the script:
 
 bash
 Copy code
-python log_analysis_script.py
+python log_analysis.py
 The script will:
 
 Display the IP request counts, most accessed endpoint, and suspicious activity in the terminal.
